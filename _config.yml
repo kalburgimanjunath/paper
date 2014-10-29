@@ -1,5 +1,6 @@
-name: Manjunath Kalburgi
+name: ssk times
 markdown: redcarpet
 pygments: true
 port: 4000
 permalink: pretty
+url: 'http://kalburgimanjunath/paper'
