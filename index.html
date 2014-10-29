@@ -53,11 +53,11 @@ layout: default
                     </div>
                     <ul>
                     {% for category in site.categories %}
-                      <li><a href="paper{{category | first}}"><b>{{category[0]}}</b></a>
+                      <li><a href="{{category | first}}"><b>{{category[0]}}</b></a>
                         <ol>
                           {% for posts in category %}
                             {% for post in posts %}
-                              <li><a href="paper{{post.url}}">{{post.title}}</a>
+                              <li><a href="{{post.url}}">{{post.title}}</a>
                             {% endfor %}
                           {% endfor %}
                         </ol> 
@@ -67,25 +67,25 @@ layout: default
                   <!-- headlines -->
                   <span>Headlines</span>
                   {% for post in site.categories.headlines %}
-                    <li><a href="paper{{post.url}}">{{post.title}}</a>
+                    <li><a href="{{post.url}}">{{post.title}}</a>
                   {% endfor %}
                   <br/>
 
                   <!-- top news -->
                   <span>Top news</span>
                   {% for post in site.categories.topnews %}
-                    <li><a href="paper{{post.url}}">{{post.title}}</a>
+                    <li><a href="{{post.url}}">{{post.title}}</a>
                   {% endfor %}
 
                   <!-- featured news -->
                   <span>Featured</span>
                   {% for post in site.categories.featured %}
-                    <li><a href="paper{{post.url}}">{{post.title}}</a>
+                    <li><a href="{{post.url}}">{{post.title}}</a>
                   {% endfor %}
 
                   <span>Highlights</span>
                   {% for post in site.categories.highlights %}
-                    <li><a href="paper{{post.url}}">{{post.title}}</a>
+                    <li><a href="{{post.url}}">{{post.title}}</a>
                   {% endfor %}
 
                   <div id="fb-root"></div>
@@ -102,14 +102,14 @@ layout: default
                          {% for post in site.posts %}
                                       <div class="well color1 span4 pull-left vspace30 swatch ">
                                         <div class="container">
-                                          <h2><a href="paper{{ post.url }}">{{ post.title | truncatewords: 10 | capitalize}}</a></h2>
+                                          <h2><a href="{{ post.url }}">{{ post.title | truncatewords: 10 | capitalize}}</a></h2>
                                           <h6 class="date"><i class="fa fa-calendar-o"></i> {{ post.date | date_to_long_string }}</h6>
                                           <p>{{ post.excerpt }}</p>
                                           <p>
                                             <img src="{{ post.image }}">
                                           </p>
                                           <p>
-                                            <a href="paper{{ post.url }}" class="btn btn-success"><i class="fa fa-info-circle"></i> Read More</a>
+                                            <a href="{{ post.url }}" class="btn btn-success"><i class="fa fa-info-circle"></i> Read More</a>
                                           </p>
                                         </div>
                                       
