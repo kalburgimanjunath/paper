@@ -1,0 +1,46 @@
+{% include header.html %}
+
+      <div class="container">
+      		<div class="sectional color1">
+
+			  <div class="row section">
+			  	<div class="container">
+			  		<div class="col-lg-5 col-md-5">
+			  			<h1 class="section-headline">{{ page.title }}</h1>
+			  		</div>
+			  		<div class="col-lg-7 col-md-7">
+			  			<p class="muted">{{ page.date | date_to_long_string }}</p>
+			  			{{ content }}
+			  			<!--
+			  			<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="532" height="399" align="middle" id="Beyonce-Beauty-Secrets">
+
+			    			<param name="movie" value="{{ page.gamefile }}">
+
+			    			<param name="quality" value="high">
+			    			<param name="AllowScriptAccess" value="always">
+
+			    			<object type="application/x-shockwave-flash" data="{{ page.gamefile }}" width="532" height="399">
+			    				<param name="movie" value="{{ page.gamefile }}">
+			    				<param name="quality" value="high">
+			    				<param name="AllowScriptAccess" value="always">
+			    				<a href="http://www.adobe.com/go/getflash">
+			    				<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash Player"></a>
+
+			    			</object>
+
+
+			    		</object>
+			    	-->
+			  		</div>
+					
+			  	</div>
+				
+			  </div>
+
+			  
+				
+			  </div>
+			</div>
+		</div>
+	 
+{% include footer.html %}

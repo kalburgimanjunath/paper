@@ -1,0 +1,254 @@
+<?xml-stylesheet href="feeds.xsl" type="text/xsl" media="screen"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Monday By Noon</title>
+	<atom:link href="https://mondaybynoon.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mondaybynoon.com</link>
+	<description>A resource for Web designers and developers to read about and discuss their craft.</description>
+	<lastBuildDate>Tue, 03 Dec 2013 21:12:32 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8</generator>
+	<item>
+		<title>Front End Editing in WordPress with Barley</title>
+		<link>http://mondaybynoon.com/feeder/?FeederAction=clicked&#038;feed=Posts+%28RSS2%29&#038;seed=https%3A%2F%2Fmondaybynoon.com%2Fbarley%2F&#038;seed_title=Front+End+Editing+in+WordPress+with+Barley</link>
+		<comments>https://mondaybynoon.com/barley/#comments</comments>
+		<pubDate>Tue, 26 Nov 2013 18:27:46 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan]]></dc:creator>
+				<category><![CDATA[Asides]]></category>
+		<category><![CDATA[Barley]]></category>
+		<category><![CDATA[front end edit]]></category>
+		<category><![CDATA[plugin]]></category>
+		<category><![CDATA[WordPress]]></category>
+
+		<guid isPermaLink="false">http://mondaybynoon.com/?p=5654</guid>
+		<description><![CDATA[<p>Front end editing has always been an interesting pain point over the years. WordPress was a fantastic playground for many attempts to solve the problem of separating writing and consumption of your site content. I work with a lot of clients, and it&#8217;s usually hit-or-miss when explaining how to manage things. Some clients are used [&#8230;]</p><p>The post <a rel="nofollow" href="https://mondaybynoon.com/barley/">Front End Editing in WordPress with Barley</a> appeared first on <a rel="nofollow" href="https://mondaybynoon.com">Monday By Noon</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Link: <a href="http://getbarley.com/editor/wp">http://getbarley.com/editor/wp</a></p><p>Front end editing has always been an interesting pain point over the years. WordPress was a fantastic playground for many attempts to solve the problem of separating writing and consumption of your site content. I work with a lot of clients, and it&#8217;s usually hit-or-miss when explaining how to manage things. Some clients are used to the concept of an administration area, while others struggle a bit to see how everything ties together.</p>
+<p>I sympathize with it, it&#8217;s not completely intuitive that these arbitrary text fields in an admin area have an effect on the public-facing side of your website. While we&#8217;ve all been swimming in that concept for a very long time, it&#8217;s new (and <em>intimidating</em>) to many. Some day long ago a smart person wondered what it would be like to blend the administration and consumption of site content into a cohesive process.</p>
+<p><a href="http://getbarley.com/editor/wp">Barley</a> aims to make it the best front end editing workflow WordPress has ever seen, check it out:</p>
+<div class="fitvid">
+<p><iframe width="500" height="281" src="https://www.youtube.com/embed/5YE8ISXkLXM?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+</div>
+<p>I got a chance to play with Barley firsthand and I must admit it&#8217;s really well put together. Barley&#8217;s roots are in a <a href="http://getbarley.com/cms">full blown CMS</a> but this branch into WordPress is, in my opinion, brilliant. I think exposing Barley to the WordPress community will find a lot of resonance with authors looking for a more integrated editing experience. While I&#8217;m not so much the target demographic, I really think it&#8217;d be enticing to a large number of people looking to remove the edit, preview, edit, preview, publish repetition from their writing. Barley lets you get a true-to-life look at what you post is going to look like when it&#8217;s exposed to the world <em>as you&#8217;re writing it</em>.</p>
+<p>Barley has a couple of licensing options, and a huge goal of the team is to make sure Barley ties in with <strong>your theme</strong> no matter where it came from. Give it a look if you&#8217;re looking to shake up your content editing.</p>
+<p>The post <a rel="nofollow" href="https://mondaybynoon.com/barley/">Front End Editing in WordPress with Barley</a> appeared first on <a rel="nofollow" href="https://mondaybynoon.com">Monday By Noon</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://mondaybynoon.com/barley/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>15 Sorting Algorithms in 6 Minutes</title>
+		<link>http://mondaybynoon.com/feeder/?FeederAction=clicked&#038;feed=Posts+%28RSS2%29&#038;seed=https%3A%2F%2Fmondaybynoon.com%2F15-sorting-algorithms-in-6-minutes-youtube%2F&#038;seed_title=15+Sorting+Algorithms+in+6+Minutes</link>
+		<comments>https://mondaybynoon.com/15-sorting-algorithms-in-6-minutes-youtube/#comments</comments>
+		<pubDate>Fri, 15 Nov 2013 14:10:34 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan]]></dc:creator>
+				<category><![CDATA[Asides]]></category>
+		<category><![CDATA[algorithm]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[sorting]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">http://mondaybynoon.com/?p=5647</guid>
+		<description><![CDATA[<p>It&#8217;s strange now that I think about it, but seeing an illustration of how various sorting algorithms worked was a foundational part of my pursuing programming. It blew my mind that there were so many ways to &#8220;solve&#8221; the same problem. Well, what I saw a long time ago was a bunch of animated GIFs. [&#8230;]</p><p>The post <a rel="nofollow" href="https://mondaybynoon.com/15-sorting-algorithms-in-6-minutes-youtube/">15 Sorting Algorithms in 6 Minutes</a> appeared first on <a rel="nofollow" href="https://mondaybynoon.com">Monday By Noon</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Link: <a href="http://www.youtube.com/watch?v=kPRA0W1kECg">http://www.youtube.com/watch?v=kPRA0W1kECg</a></p><p>It&#8217;s strange now that I think about it, but seeing an illustration of how various sorting algorithms worked was a foundational part of my pursuing programming. It blew my mind that there were <em>so many</em> ways to &#8220;solve&#8221; the same problem. Well, what I saw a long time ago was a bunch of animated GIFs. This is <strong>WAY BETTER</strong>. Turn on the sound for the awesome.</p>
+<div class="fitvid">
+<p><iframe width="500" height="281" src="https://www.youtube.com/embed/kPRA0W1kECg?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+</div>
+<p>/via <a href="http://kottke.org/13/11/sorting-algorithms-visualized">Kottke</a></p>
+<p>The post <a rel="nofollow" href="https://mondaybynoon.com/15-sorting-algorithms-in-6-minutes-youtube/">15 Sorting Algorithms in 6 Minutes</a> appeared first on <a rel="nofollow" href="https://mondaybynoon.com">Monday By Noon</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://mondaybynoon.com/15-sorting-algorithms-in-6-minutes-youtube/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Discovering Sketch</title>
+		<link>http://mondaybynoon.com/feeder/?FeederAction=clicked&#038;feed=Posts+%28RSS2%29&#038;seed=https%3A%2F%2Fmondaybynoon.com%2Fdiscovering-sketch-designux-medium%2F&#038;seed_title=Discovering+Sketch</link>
+		<comments>https://mondaybynoon.com/discovering-sketch-designux-medium/#comments</comments>
+		<pubDate>Wed, 13 Nov 2013 15:33:25 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan]]></dc:creator>
+				<category><![CDATA[Asides]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Photoshop]]></category>
+		<category><![CDATA[Sketch]]></category>
+		<category><![CDATA[UI]]></category>
+		<category><![CDATA[vector]]></category>
+
+		<guid isPermaLink="false">http://mondaybynoon.com/?p=5641</guid>
+		<description><![CDATA[<p>I&#8217;m not a designer but I use the tools of designers a lot. I spend a lot of my time in Photoshop exporting assets for projects and on top of that paying what feels like an unfair price to do it. It&#8217;s not that I don&#8217;t think it&#8217;s worth it, I&#8217;m just ready for something [&#8230;]</p><p>The post <a rel="nofollow" href="https://mondaybynoon.com/discovering-sketch-designux-medium/">Discovering Sketch</a> appeared first on <a rel="nofollow" href="https://mondaybynoon.com">Monday By Noon</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Link: <a href="https://medium.com/design-ux/25545f6cb161">https://medium.com/design-ux/25545f6cb161</a></p><p>I&#8217;m not a designer but I use the tools of designers a lot. I spend a lot of my time in Photoshop exporting assets for projects and on top of that paying what feels like an unfair price to do it. It&#8217;s not that I don&#8217;t think it&#8217;s worth it, I&#8217;m just ready for something new. Luckily there&#8217;s a lot of action there, a number of projects aiming to build the tool we all want to use. It&#8217;s taken a long time and it&#8217;s going to take even longer, but Sketch has taken hold to a great degree, and for good reason.</p>
+<p><a href='https://medium.com/design-ux/25545f6cb161'><img src="https://mondaybynoon.com/wp-content/uploads/0Qjf-7dLH9R7H-yOk.png" alt="Sketch UI" /></a></p>
+<p>I&#8217;ve got a copy of Sketch for the same reasons I&#8217;ve got copies of a number of indie graphics programs aimed at Web design, and I&#8217;ve been keeping up with releases. I&#8217;m excited for it. The UI is awesome, it does a ton of stuff that saves me time, and it seems like those on the creative end (versus my extraction end) seem to like it too.</p>
+<p>The post <a rel="nofollow" href="https://mondaybynoon.com/discovering-sketch-designux-medium/">Discovering Sketch</a> appeared first on <a rel="nofollow" href="https://mondaybynoon.com">Monday By Noon</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://mondaybynoon.com/discovering-sketch-designux-medium/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Do Things that Don&#8217;t Scale</title>
+		<link>http://mondaybynoon.com/feeder/?FeederAction=clicked&#038;feed=Posts+%28RSS2%29&#038;seed=https%3A%2F%2Fmondaybynoon.com%2Fdo-things-that-dont-scale%2F&#038;seed_title=Do+Things+that+Don%26%238217%3Bt+Scale</link>
+		<comments>https://mondaybynoon.com/do-things-that-dont-scale/#comments</comments>
+		<pubDate>Wed, 13 Nov 2013 15:02:38 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan]]></dc:creator>
+				<category><![CDATA[Asides]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[Inspiration]]></category>
+		<category><![CDATA[startup]]></category>
+
+		<guid isPermaLink="false">http://mondaybynoon.com/?p=5637</guid>
+		<description><![CDATA[<p>I really like this piece, it&#8217;s a longer read but Paul Graham is worth reading in my opinion. The general idea he talks about really outlines a number of factors that usually scare people about starting things. While he&#8217;s speaking specifically to startups, we can really extrapolate those feelings onto just about anything, even personal [&#8230;]</p><p>The post <a rel="nofollow" href="https://mondaybynoon.com/do-things-that-dont-scale/">Do Things that Don&#8217;t Scale</a> appeared first on <a rel="nofollow" href="https://mondaybynoon.com">Monday By Noon</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Link: <a href="http://paulgraham.com/ds.html">http://paulgraham.com/ds.html</a></p><p>I really like this piece, it&#8217;s a longer read but Paul Graham is worth reading in my opinion. The general idea he talks about really outlines a number of factors that usually scare people about starting things. While he&#8217;s speaking specifically to startups, we can really extrapolate those feelings onto just about anything, even personal projects. I can&#8217;t tell you how many times I&#8217;ve put something aside for a number of the reasons outlined in the article, but I think I&#8217;m learning something as time goes on: It&#8217;s not going to go the way you expect it, and you&#8217;re likely always going to feel as though you&#8217;re swan diving into the unknown.</p>
+<p>I think we&#8217;re all enamored about what we recognize (but quickly forget about or flat out deny) as the &#8216;social network facade&#8217; where it feels like everything everyone else is doing and my version isn&#8217;t like that so <strong>I must be doing something wrong</strong>. Social networks look like utopia, don&#8217;t they? So do the articles we read about startups getting funding and users and fame and glory and all of it. We don&#8217;t read about the <em>real</em> details, about how the company almost blew up before it even got started, about how it spent years trying to prove itself before it was accepted. People don&#8217;t like sharing the ugly side of things, but we need to keep in mind that nothing&#8217;s a fairy tale, the problems we&#8217;re faced with should be inspiration for us to tackle them head on. If there weren&#8217;t stressful parts to every day, we&#8217;re likely not trying hard enough, right?</p>
+<p>The post <a rel="nofollow" href="https://mondaybynoon.com/do-things-that-dont-scale/">Do Things that Don&#8217;t Scale</a> appeared first on <a rel="nofollow" href="https://mondaybynoon.com">Monday By Noon</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://mondaybynoon.com/do-things-that-dont-scale/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Automatic Sass Imports with Sass Globbing</title>
+		<link>http://mondaybynoon.com/feeder/?FeederAction=clicked&#038;feed=Posts+%28RSS2%29&#038;seed=https%3A%2F%2Fmondaybynoon.com%2Fautomatic-sass-imports-with-sass-globbing%2F&#038;seed_title=Automatic+Sass+Imports+with+Sass+Globbing</link>
+		<comments>https://mondaybynoon.com/automatic-sass-imports-with-sass-globbing/#comments</comments>
+		<pubDate>Wed, 13 Nov 2013 14:26:27 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan]]></dc:creator>
+				<category><![CDATA[Asides]]></category>
+		<category><![CDATA[glob]]></category>
+		<category><![CDATA[globbing]]></category>
+		<category><![CDATA[SASS]]></category>
+
+		<guid isPermaLink="false">http://mondaybynoon.com/?p=5633</guid>
+		<description><![CDATA[<p>Sass is awesome, and I use it 99% of the time now. That 1% is when I&#8217;m working on a legacy project that I likely didn&#8217;t start. I have one hang up on it though. It&#8217;s hard to rank them, but perhaps my favorite aspect of Sass is the concept of partials. For those that [&#8230;]</p><p>The post <a rel="nofollow" href="https://mondaybynoon.com/automatic-sass-imports-with-sass-globbing/">Automatic Sass Imports with Sass Globbing</a> appeared first on <a rel="nofollow" href="https://mondaybynoon.com">Monday By Noon</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Link: <a href="http://fuseinteractive.ca/blog/automatic-sass-imports-sass-globbing">http://fuseinteractive.ca/blog/automatic-sass-imports-sass-globbing</a></p><p>Sass is awesome, and I use it 99% of the time now. That 1% is when I&#8217;m working on a legacy project that I likely didn&#8217;t start. I have <em>one</em> hang up on it though.</p>
+<p>It&#8217;s hard to rank them, but perhaps my favorite aspect of Sass is the concept of partials. For those that aren&#8217;t familiar a partial is a standalone Sass file that has a filename starting with <code>_</code> and that underscore in the filename prevents Sass from creating an actual build file from it and instead allowing you to utilize it in a &#8216;parent&#8217; Sass file. Using partials you can <em>physically</em> separate your module styles, which really sends home the modular message.</p>
+<p>So back to my issue: I create <em>a lot</em> of partials, which means each time I add a new module, I have to open the &#8216;parent&#8217; Sass file and make sure I <code>@import</code> that module. It gets tedious, especially with new projects.</p>
+<p>The standard solution for an issue like this is what&#8217;s referred to as globbing, where software will take everything in a directory and use it. It sounds like a perfect match for my personal issue, but Sass doesn&#8217;t facilitate globbing. I get why: globbing means a mechanical way of including files, usually based on their file name, ordered alphabetically. That means that the order in which a globbing routine processes files will <strong>likely change over time</strong>. As we all know with CSS, there are many ways to be more or less specific, and changing the order of an <code>@import</code> in Sass could <em>greatly</em> change what renders on the page.</p>
+<p>So I get the decision, but I as a developer would love to be able to take the responsibility of setting some sort of configuration flag to allow globbing and be victim to the modularity of my modules. Ryan offers his own take on a solution, and while that rocks, if I were to implement it I&#8217;d lose the standardized nature of Sass so collaboration would require a new dependency. Ryan has done everything in his power to fall in line with the Sass workflow, and that&#8217;s awesome, but every time I&#8217;ve utilized a 3rd party <code>gem</code> it always raises eyebrows with sysadmins I work with because it&#8217;s one more thing they need to add to their build process. They don&#8217;t like that.</p>
+<p>The post <a rel="nofollow" href="https://mondaybynoon.com/automatic-sass-imports-with-sass-globbing/">Automatic Sass Imports with Sass Globbing</a> appeared first on <a rel="nofollow" href="https://mondaybynoon.com">Monday By Noon</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://mondaybynoon.com/automatic-sass-imports-with-sass-globbing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Media Queries Are Not The Answer: Element Query Polyfill</title>
+		<link>http://mondaybynoon.com/feeder/?FeederAction=clicked&#038;feed=Posts+%28RSS2%29&#038;seed=https%3A%2F%2Fmondaybynoon.com%2Fmedia-queries-are-not-the-answer-element-query-polyfill-smashing-coding%2F&#038;seed_title=Media+Queries+Are+Not+The+Answer%3A+Element+Query+Polyfill</link>
+		<comments>https://mondaybynoon.com/media-queries-are-not-the-answer-element-query-polyfill-smashing-coding/#comments</comments>
+		<pubDate>Wed, 13 Nov 2013 13:56:15 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan]]></dc:creator>
+				<category><![CDATA[Asides]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[element]]></category>
+		<category><![CDATA[element queries]]></category>
+		<category><![CDATA[media queries]]></category>
+
+		<guid isPermaLink="false">http://mondaybynoon.com/?p=5629</guid>
+		<description><![CDATA[<p>If anything has totally turned my CSS-writing-life upside down it&#8217;s the strategy of writing styles in the most modular form you can. I&#8217;ve obsessed over it ever since reading SMACSS for the first time. I always struggled with the idea of OOCSS and how that translates to real life. Are there technical benefits to it, [&#8230;]</p><p>The post <a rel="nofollow" href="https://mondaybynoon.com/media-queries-are-not-the-answer-element-query-polyfill-smashing-coding/">Media Queries Are Not The Answer: Element Query Polyfill</a> appeared first on <a rel="nofollow" href="https://mondaybynoon.com">Monday By Noon</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Link: <a href="http://coding.smashingmagazine.com/2013/06/25/media-queries-are-not-the-answer-element-query-polyfill/">http://coding.smashingmagazine.com/2013/06/25/media-queries-are-not-the-answer-element-query-polyfill/</a></p><p>If anything has totally turned my CSS-writing-life upside down it&#8217;s the strategy of writing styles in the most modular form you can. I&#8217;ve obsessed over it ever since reading <a href="http://mondaybynoon.com/book-review-smacss/">SMACSS</a> for the first time. I always struggled with the idea of OOCSS and how that translates to real life. Are there technical benefits to it, or is it only to benefit our sanity and maintenance factor on a project. I like to strive for a combination of both, but it turns out that&#8217;s wicked hard.</p>
+<p>This piece is an interesting, albeit brain bending concept about element queries (versus media queries) that give you a more fine-grained control over the responsive nature of your modular CSS. Neat stuff.</p>
+<p>The post <a rel="nofollow" href="https://mondaybynoon.com/media-queries-are-not-the-answer-element-query-polyfill-smashing-coding/">Media Queries Are Not The Answer: Element Query Polyfill</a> appeared first on <a rel="nofollow" href="https://mondaybynoon.com">Monday By Noon</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://mondaybynoon.com/media-queries-are-not-the-answer-element-query-polyfill-smashing-coding/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Responsive images – end of year report</title>
+		<link>http://mondaybynoon.com/feeder/?FeederAction=clicked&#038;feed=Posts+%28RSS2%29&#038;seed=https%3A%2F%2Fmondaybynoon.com%2Fresponsive-images-end-of-year-report-html5-doctor%2F&#038;seed_title=Responsive+images+%E2%80%93+end+of+year+report</link>
+		<comments>https://mondaybynoon.com/responsive-images-end-of-year-report-html5-doctor/#comments</comments>
+		<pubDate>Wed, 13 Nov 2013 13:17:54 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan]]></dc:creator>
+				<category><![CDATA[Asides]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[images]]></category>
+		<category><![CDATA[responsive]]></category>
+		<category><![CDATA[Web]]></category>
+
+		<guid isPermaLink="false">http://mondaybynoon.com/?p=5624</guid>
+		<description><![CDATA[<p>If I were forced to pick one at gunpoint (because that&#8217;s feasible) I would choose images as being the biggest &#8220;yet to be solved&#8221; issue with responsive Web design. That&#8217;s a lot of air quotes and ridiculousness, but bear with me because I&#8217;m serious. Images are almost a necessary evil. Yes we can make awesome [&#8230;]</p><p>The post <a rel="nofollow" href="https://mondaybynoon.com/responsive-images-end-of-year-report-html5-doctor/">Responsive images – end of year report</a> appeared first on <a rel="nofollow" href="https://mondaybynoon.com">Monday By Noon</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Link: <a href="http://html5doctor.com/responsive-images-end-of-year-report/">http://html5doctor.com/responsive-images-end-of-year-report/</a></p><p>If I were forced to pick one at gunpoint (because that&#8217;s feasible) I would choose images as being the biggest &#8220;yet to be solved&#8221; issue with responsive Web design. That&#8217;s a lot of air quotes and ridiculousness, but bear with me because I&#8217;m serious.</p>
+<p>Images are almost a necessary evil. Yes we can make awesome stuff with CSS alone, and is already resolution independent. But more often than not we&#8217;re going to toss an image in there, and it&#8217;s not. Further, due to it&#8217;s bitmappy nature it doesn&#8217;t do us any favors in the bandwidth department.</p>
+<p>A lot of really smart people have been working on this problem for a long time. To date, I&#8217;ve sat in the wings being impressed with both the proposed solutions as well as the research behind them. As much as everyone has tried, we still have yet to come up with a solution for this problem. Heck, we&#8217;re still thinking about the fundamental issue at hand. There are <em>so many</em> facets to this problem, every time you take a step closer to a solution, a whole new crop of issues may or may not spring up. It&#8217;s nuts.</p>
+<p>If you&#8217;re not intrigued by the implications of this problem: have another cup of coffee, dude!</p>
+<p>The post <a rel="nofollow" href="https://mondaybynoon.com/responsive-images-end-of-year-report-html5-doctor/">Responsive images – end of year report</a> appeared first on <a rel="nofollow" href="https://mondaybynoon.com">Monday By Noon</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://mondaybynoon.com/responsive-images-end-of-year-report-html5-doctor/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Taking Control of Contracts: What Every Creative Should Know</title>
+		<link>http://mondaybynoon.com/feeder/?FeederAction=clicked&#038;feed=Posts+%28RSS2%29&#038;seed=https%3A%2F%2Fmondaybynoon.com%2Ftaking-control-of-contracts-what-every-creative-should-know%2F&#038;seed_title=Taking+Control+of+Contracts%3A+What+Every+Creative+Should+Know</link>
+		<comments>https://mondaybynoon.com/taking-control-of-contracts-what-every-creative-should-know/#comments</comments>
+		<pubDate>Fri, 08 Nov 2013 15:03:42 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan]]></dc:creator>
+				<category><![CDATA[Asides]]></category>
+		<category><![CDATA[advice]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[contracts]]></category>
+
+		<guid isPermaLink="false">http://mondaybynoon.com/?p=5619</guid>
+		<description><![CDATA[<p>There is a lot of very practical advice in this article. The one I&#8217;d like to call out here is the following: Lawyers don’t typically advertise this, but the happy truth is, most people aren’t looking for ways to take advantage of you.  A more common problem – but one that can be just as [&#8230;]</p><p>The post <a rel="nofollow" href="https://mondaybynoon.com/taking-control-of-contracts-what-every-creative-should-know/">Taking Control of Contracts: What Every Creative Should Know</a> appeared first on <a rel="nofollow" href="https://mondaybynoon.com">Monday By Noon</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Link: <a href="http://99u.com/articles/17023/taking-control-of-contracts-what-every-creative-should-know">http://99u.com/articles/17023/taking-control-of-contracts-what-every-creative-should-know</a></p><p>There is a lot of very practical advice in this article. The one I&#8217;d like to call out here is the following:</p>
+<blockquote><p>
+  Lawyers don’t typically advertise this, but the happy truth is, most people aren’t looking for ways to take advantage of you.  A more common problem – but one that can be just as costly – is that people tend to interpret the same information in different ways.
+</p></blockquote>
+<p>In my opinion, clarity is <em>by far</em> the most important thing when doing the work we do. Every one of us does the same thing in different ways, and our clients have little to no idea how we do it. It&#8217;s <strong>your job</strong> to help them understand, to ease their concerns, to make sure your relationship is more than a legally bound interaction. It&#8217;s a partnership. The quicker you&#8217;re able to explain things clearly and effectively, the faster you&#8217;ll move beyond (what doesn&#8217;t need to be) the &#8216;awkward contract phase&#8217;.</p>
+<p>The post <a rel="nofollow" href="https://mondaybynoon.com/taking-control-of-contracts-what-every-creative-should-know/">Taking Control of Contracts: What Every Creative Should Know</a> appeared first on <a rel="nofollow" href="https://mondaybynoon.com">Monday By Noon</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://mondaybynoon.com/taking-control-of-contracts-what-every-creative-should-know/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>5 reasons why hourly rate is better than fixed price</title>
+		<link>http://mondaybynoon.com/feeder/?FeederAction=clicked&#038;feed=Posts+%28RSS2%29&#038;seed=https%3A%2F%2Fmondaybynoon.com%2F5-reasons-why-hourly-rate-is-better-than-fixed-price%2F&#038;seed_title=5+reasons+why+hourly+rate+is+better+than+fixed+price</link>
+		<comments>https://mondaybynoon.com/5-reasons-why-hourly-rate-is-better-than-fixed-price/#comments</comments>
+		<pubDate>Fri, 08 Nov 2013 14:23:16 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan]]></dc:creator>
+				<category><![CDATA[Asides]]></category>
+		<category><![CDATA[billing]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[price]]></category>
+
+		<guid isPermaLink="false">http://mondaybynoon.com/?p=5614</guid>
+		<description><![CDATA[<p>This dead horse just won&#8217;t die, and I don&#8217;t have a problem with that. Billing structure is a fantastic conversation to have, especially if you have a stance on it. I&#8217;ve spoken a lot about the topic to date, but in my usual format I&#8217;d like to respond specifically to the points raised in this [&#8230;]</p><p>The post <a rel="nofollow" href="https://mondaybynoon.com/5-reasons-why-hourly-rate-is-better-than-fixed-price/">5 reasons why hourly rate is better than fixed price</a> appeared first on <a rel="nofollow" href="https://mondaybynoon.com">Monday By Noon</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Link: <a href="http://blog.netguru.co/post/55074277381/why-hourly-rate-is-better-than-fixed-price">http://blog.netguru.co/post/55074277381/why-hourly-rate-is-better-than-fixed-price</a></p><p>This dead horse just won&#8217;t die, and I don&#8217;t have a problem with that. Billing structure is a fantastic conversation to have, <em>especially</em> if you have a stance on it. I&#8217;ve spoken a lot about the topic to date, but in my usual format I&#8217;d like to respond specifically to the points raised in this article.</p>
+<p><strong>Spoiler alert:</strong> I do not like hourly billing. <a href="http://irontoiron.com">Iron to Iron</a> embraces value-based pricing.</p>
+<p>When reading opinion pieces on billing structure, it&#8217;s arguably most important to determine the vantage point of the author. In this case we get a look into that position from the start:</p>
+<blockquote><p>
+  Five reasons why you should never hire a Web agency to do a fixed-price project for a startup and always use an hourly-rate model or similar
+</p></blockquote>
+<p>I&#8217;m not sure how intentional it was, but the clarification <strong>for a startup</strong> stuck out to me. More on that later.</p>
+<p>The first argument is that <em>you end up with a better project if you&#8217;re billing hourly. Always.</em> I spent years working at an agency that billed by the hour and I can confidently say that hourly billing had no effect on the quality of work done. All it did was determine the bottom line on an invoice. In theory ideas like &#8220;Give the team you trust a chance to freely pivot and change the direction of the project when you need it.&#8221; are wonderful, but I never saw a project where the client wanted to spend money on a team of people freely pivoting without serious accountability.</p>
+<p>The next point has to do with a reduction of risk on your (the customer) part. This stance never played itself out well for me because we were constantly telling clients &#8220;we are going to need more hours to do that&#8221; which was <em>never</em> received well.</p>
+<p>The third dig against a fixed-price model assumes that right out of the gate any company that charges a fixed rate is against you from the second you sign their contract. As a service provider I whole-heartedly disagree. The author goes on to defend his statement by declaring that a company with a fixed-price model &#8220;wants to do the least possible, as the price is fixed&#8221;. What that position fails to take into consideration is that a fixed price inspires you to work as fast as possible, not as little as possible. As the service provider if you&#8217;re working hourly doing anything quickly <em>costs you money</em>.</p>
+<p>The next point calls out the fact that hourly billing agreements are more simple than fixed price. I agree completely. My rebuttal here revolves around the fact that even when I worked at a company that billed hourly, I was still forced to come up with an estimation of <em>how many hours</em> a project would take. In my experience, just about everyone does it that way which is where it all falls flat for me. If you&#8217;re billing hourly, why would you burden yourself with what is essentially a fixed price estimate? I have yet to meet a client that&#8217;s willing to openly agree to a project billed hourly with absolutely no concept of how much it&#8217;s going to cost at completion. Maybe I&#8217;m the minority though.</p>
+<p>Finally, hourly billing is called out as being cheaper than fixed price. I feel that&#8217;s a bit arbitrary, stating that customers are paying only for the actual work and experience. I somewhat agree to this point, if you&#8217;re working on a project with a provider that charges hourly, I would assume if they are good at what they do it would be extremely cheap. But that raises the question: why would someone <em>decrease</em> the cost of their offering as they get better at it? As you get better at something, it takes less time, right? When discussing hourly billing, the logical conclusion to that is you would be charging less as time goes on because you are doing the same quality of work at a more rapid pace. That makes no business sense, so the usual pivot for hourly billing is to charge more. This cycle continues until you raise your rate high enough that people start saying &#8220;no&#8221;. At that point you&#8217;ve found your cap and the cycle continues.</p>
+<p>Do I think that companies can survive (and survive well) when billing hourly? Yes. Do I think they could be doing even better if they switched to value based pricing? Yes. While I like talking about this topic with just about anyone, I don&#8217;t take it <em>too</em> seriously anymore. It all comes down to company process, culture, and ideals. For me the issue is clear and value based pricing makes <em>way</em> more sense, but I love hearing arguments otherwise.</p>
+<p>The post <a rel="nofollow" href="https://mondaybynoon.com/5-reasons-why-hourly-rate-is-better-than-fixed-price/">5 reasons why hourly rate is better than fixed price</a> appeared first on <a rel="nofollow" href="https://mondaybynoon.com">Monday By Noon</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://mondaybynoon.com/5-reasons-why-hourly-rate-is-better-than-fixed-price/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fight impostor syndrome</title>
+		<link>http://mondaybynoon.com/feeder/?FeederAction=clicked&#038;feed=Posts+%28RSS2%29&#038;seed=https%3A%2F%2Fmondaybynoon.com%2Ffight-impostor-syndrome%2F&#038;seed_title=Fight+impostor+syndrome</link>
+		<comments>https://mondaybynoon.com/fight-impostor-syndrome/#comments</comments>
+		<pubDate>Fri, 08 Nov 2013 13:47:52 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan]]></dc:creator>
+				<category><![CDATA[Asides]]></category>
+		<category><![CDATA[impostor]]></category>
+		<category><![CDATA[Inspiration]]></category>
+		<category><![CDATA[syndrome]]></category>
+
+		<guid isPermaLink="false">http://mondaybynoon.com/?p=5610</guid>
+		<description><![CDATA[<p>Great piece to read early in the morning. I constantly wrestle with self-imposed impostor syndrome, but I don&#8217;t see that as a bad thing the majority of the time (for myself). I think Brian hits it on the head as he closes with: So quit struggling with impostor syndrome and be confident in your own [&#8230;]</p><p>The post <a rel="nofollow" href="https://mondaybynoon.com/fight-impostor-syndrome/">Fight impostor syndrome</a> appeared first on <a rel="nofollow" href="https://mondaybynoon.com">Monday By Noon</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>Link: <a href="http://www.poststat.us/fight-impostor-syndrome/">http://www.poststat.us/fight-impostor-syndrome/</a></p><p>Great piece to read early in the morning. I <em>constantly</em> wrestle with self-imposed impostor syndrome, but I don&#8217;t see that as a bad thing the majority of the time (for myself). I think Brian hits it on the head as he closes with:</p>
+<blockquote><p>
+  So quit struggling with impostor syndrome and be confident in your own skill set, even <strong>as you hungrily learn new things</strong>.
+</p></blockquote>
+<p>Emphasis mine. The take-home issue for me surrounding impostor syndrome is that it continues to drive me to <em>want</em> to learn more. I love that Brian chose &#8216;hungrily&#8217; because that&#8217;s <em>exactly</em> what it feels like. I will honestly admit that I take my embrace of impostor syndrome too far, to a fault, and I think that&#8217;s what Brian is speaking out against in this piece.</p>
+<p>I don&#8217;t feel that impostor syndrome is inherently wrong. I do think it&#8217;s wrong to sit back and think that you&#8217;ve got it all figured out and don&#8217;t need to work hard each and every day. As has proven to be a way of life for me, it&#8217;s <strong>finding the balance</strong> that proves to be the hard part. When it comes to impostor syndrome you very quickly jump to self-deprecation, which is anything but inspirational. Don&#8217;t let impostor syndrome define you, use it as a weapon.</p>
+<p>The post <a rel="nofollow" href="https://mondaybynoon.com/fight-impostor-syndrome/">Fight impostor syndrome</a> appeared first on <a rel="nofollow" href="https://mondaybynoon.com">Monday By Noon</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://mondaybynoon.com/fight-impostor-syndrome/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

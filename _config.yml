@@ -1,0 +1,5 @@
+name: Manjunath Kalburgi
+markdown: redcarpet
+pygments: true
+port: 4000
+permalink: pretty
