@@ -1,6 +1,6 @@
 ---
 title: Raghuram Rajan Gets Best Central
-layout: post
+layout: default
 published: true
 category: highlights
 ---

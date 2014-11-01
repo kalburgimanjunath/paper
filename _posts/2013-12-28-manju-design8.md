@@ -1,6 +1,6 @@
 ---
 title: Nationwide Mobile Number Portability
-layout: post
+layout: default
 published: true
 category: highlights
 ---

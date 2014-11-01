@@ -1,6 +1,6 @@
 ---
 title: Has The Government Forgotten Devyani Khobragade?
-layout: post
+layout: default
 published: true
 category: featured
 ---

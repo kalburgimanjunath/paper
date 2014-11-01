@@ -1,6 +1,6 @@
 ---
 title: manju 
-layout: post
+layout: default
 published: true
 category: news
 ---

@@ -1,7 +1,7 @@
 ---
 title: BJP Upbeats as Maharashtra,Haryana See high voter turnout:10 Developments 
 layout: post
-published: true
+published: default
 category: headlines
 ---
 

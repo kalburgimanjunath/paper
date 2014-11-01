@@ -1,6 +1,6 @@
 ---
 title: He killed a baby and put her in suitcase killed grandmother too 
-layout: post
+layout: default
 published: true
 category: headlines
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dewani sex life in spotlight at merder trial
-layout: post
+layout: default
 published: true
 category: topnews
 ---

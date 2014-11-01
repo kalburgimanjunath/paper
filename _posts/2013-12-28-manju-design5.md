@@ -1,6 +1,6 @@
 ---
 title: Man arrested for sexually assaulting co passenger in plane toilet
-layout: post
+layout: default
 published: true
 category: topnews
 ---

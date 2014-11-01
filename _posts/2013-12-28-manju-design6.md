@@ -1,6 +1,6 @@
 ---
 title: Northeast Student attached allegedly for not speeking kannada 
-layout: post
+layout: default
 published: true
 category: topnews
 ---
