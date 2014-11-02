@@ -1,15 +1,11 @@
 ---
 title: BJP Upbeats as Maharashtra,Haryana See high voter turnout:10 Developments 
-layout: post
+layout: default
 published: default
 category: headlines
 ---
 
 
-#Hello Manju
+#BJP Upbeats as Maharashtra,Haryana See high voter turnout:10 Developments
 <img src="http://wegraphics.net/wp-content/uploads/2013/06/avenir-slide3.jpg" alt="Avenir - Coming Soon">
-<div id="wrapper"><div class="panel"><h1>Igor Ramadas</h1><div class="headline">Born in Belo Horizonte (Brazil), adventured in London (UK), living in Berlin (Germany),
-working at Zalando, addicted to music and making the most out of his 24 daily hours.
-</div></div><div class="panel"><h2>Software</h2><div>Node.js, CoffeeScript, JavaScript, HTML5, CSS3, MongoDB, NoSQL, .NET, C#.
-This list won't stop growing.</div><div class="links"><a href="https://github.com/igoramadas" title="My open source activity at GitHub">@ GitHub</a><a href="https://www.codeplex.com/site/users/view/igoramadas" title="My open source activity at CodePlex">@ CodePlex</a><a href="https://coderwall.com/igoramadas" title="My coding tips at Coderwall">@ Coderwall</a></div></div><div class="panel"><h2>Music</h2><div>My last 90 days top artists are Tina Dico, The Swell Season, Alle Farben, Damien Rice, Boy, Go Jimmy Go, Sublime, Mira &amp; Chris Schwarzwalder, Red Hot Chili Peppers, Sublime with Rome.</div><div class="links"><a href="http://www.last.fm/user/igoramadas" title"my="" music="" profile="" at="" last.fm="">@ Last.fm</a><a href="https://soundcloud.com/igoramadas" title"my="" mixes="" and="" electronic="" music="" favorites="" at="" soundcloud="">@ SoundCloud</a></div></div><div class="panel"><h2>Sports</h2><div>In the last 90 days I did 755km by foot, and cycled
-for around 13h 17m. And I go bouldering every monday.</div><div class="links"><a href="http://www.endomondo.com/profile/6630895" title="My workouts at Endomondo">@ Endomondo</a></div></div><div class="panel"><h2>What else?</h2><div>Occasionally (really, just occasionally) I blog.</div><div class="links"><a href="http://blog.aboutigor.com" title="The Unhackable Me">@ The Unhackable Me</a><a href="http://tech.zalando.com/author/igorramadas/" title="Zalando Tech Blog">@ Zalando Tech Blog</a></div></div></div>
+<div style="min-width:155px" id="LeftData"><div class="videobrdr" id="videodiv1"></div><div id="slidshdiv"></div><div id="sshow"><div class="cnt new_class3"><div></div><div class="padL3" id="bellyad"><div class="mainimg1"><div class="flL_pos"><img pg="" vspace="0" marginheight="0" marginwidth="0" width="300" border="0" alt="Sri Lanka snubs India, opens port to Chinese submarine again" title="Sri Lanka snubs India, opens port to Chinese submarine again" src="http://timesofindia.indiatimes.com/thumb/msid-45008835,width-300,resizemode-4/Chinese-Submarine-I.jpg"></div><div pg="asStoryPic" class="zoomimg1 wd300 clearfix"><div class="photo11">This undated picture shows a nuclear-powered submarine of the Chinese navy's North Sea Fleet preparing to dive into the sea. (Getty Images file photo)</div></div></div></div></div></div><div class="new_class2" id="ftredcmt"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>Times of India</title></div></div>
