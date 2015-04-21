@@ -4,7 +4,7 @@
 		  
 		  <div class="span6">
 		  {% assign image = post.images[0] %}
-		  
+		  <img src="{{ site.baseurl }}{{ image.url }}" alt="{{ image.alt }}" title="{{ image.title }}">
 			{{ content }}
 		  </div>
 	  </div>
