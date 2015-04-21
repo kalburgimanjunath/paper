@@ -1,0 +1,104 @@
+---
+title: editorial
+layout: default
+published: true
+category: highlights
+---
+<pre>
+
+category:news,headline.highlights,featured,movies
+JAN-15 EDITION
+Warm Greetings of the New Year
+Let 2015 fetch us newer opportunities!!
+
+We have welcomed the New Year 2015 with great enthusiasm. Every individual has his/her cherished hopes for a better tomorrow and for a better world. We have our collective day dreams too. The racial ill-will, hatred and mutual distrust of the nations and our inability to use the fruits of science solely for the welfare of mankind have led the apprehensions of fear about the future. Let us all wishfully hope that 2015 will pave the way for the world-peace and open up a stream of new enterprising opportunities for all of us. We have our responsibilities too. Hard work, sincerity of purpose and faith in ourselves is required. We shall redeem our pledge to serve our community with devotion and dedication.  Let us not loose faith in our mission to strive hard for the welfare of the mankind. 
+
+2014 witnessed the setting of some good trends and hopeful developments in some spheres of life in the World as a whole. India witnessed some amazing developments that would reinforce the popular belief of the World that ‘India is the only hope’ for mankind’s welfare. There were drastic administrative changes. The launching some new movements and projects has triggered new hopes and stirred enthusiasm in the masses. The new Union Government headed by Narendra Modi has proclaimed ‘Make in India’ slogan. The Swachch Bharat Abhiyan caught the imagination of people all over India and the entire nation showed enthusiastic response. This augurs well for our growing democracy as it has led to the voluntary participation of the public in the governmental programmes in the real sense of the term. The public trust in the government will lay a sound foundation for the successful implementation of the projects and programmes. The new fiscal approaches and policies, total computerization, the novel insurance facilities, ‘Bank accounts for all’ have instilled a new hope and this surely will pave way for the economic development and stability. 
+
+2014 recorded a good list of achievements and accomplishments in various spheres – science, innovative technology, fine arts and sports and environmental protection. Our scientists successfully launched the Mangalayan spacecraft. Our own super smart Mars Orbiter Mission (MOM) dazzled the World by reaching the Mars on its very first attempt. And this feat is counted as one among 25 achievements of 2014. India won the covetous Nobel Peace Prize in 2014. Kudos to Kailash Satyarthi for all his earnest efforts and for raising the prestige of India in the comity of nations. 
+
+On the Health front, the advancement is quite heartening. Medical facilities are being provided to the rural places of the country and the entire country is becoming health-conscious. The yogic associations and centres all around the country have been doing fairly well to awaken the people to become health-conscious. The television channels have been acting as catalysts of social change and our democracy is well on its way to become more and more maturer. In the field of sports, India shined considerably. Let us hope that India will continue to shine and do its best to become number one in the world.
+
+
+
+2014 has slipped by leaving behind its traces of memorable happy events and happenings and its bitter memories. There were sexual harassments and atrocities and abuses on women and children, bombing explosions, the brutalities of the terrorists and horrible air crashes. Some social evils yet continue to pester us and we have to struggle hard to build the nation. In spite of the innumerable scaring problems, India is marching ahead with renewed confidence. It is all set to become a super power in the world sooner. We have to make this a reality and let us hope that 2015 will pile up achievements and advancements towards this goal. 
+
+Sarve Janah Sukhino Bahavantu!
+Samastha Sanmangalani Bahvantu!
+
+
+FEB-15 EDITION
+
+Thank you, Dear Readers 
+
+Dear readers,
+
+We thank you for your overwhelming support and your appreciation of the SSK TIMES. Hundreds of our readers have expressed their appreciations for starting the SSK TIMES.  Many have admired the layout and the news-content and the articles in the paper. Some have made the suggestions for the improvement of the paper. Some have praised our efforts in bringing out the issues neatly and flawlessly. We assure our dear readers’ responses and incorporate all good suggestions. 
+
+It is just a beginning. We have to go a long way to make it a true representative of all our kiths and kins living in all parts of our nation. Right now, we are just happy with our infantile walk as our readers have been responding voluntarily and giving us the feedback of our performance. It is now merely a small step but there are indications that very soon we may be able to a big leap. The heaping letters, buzzing phone-calls from our readers have caused us to feel the sense of fulfillment of our endeavors. 
+
+We are happy to inform our readers that SSK TIMES is now reaching over a thousand households of our people in the states of Maharastra, Andhra Pradesh, Tamil Nadu, Madhya Pradesh and Gujarat and some Metropolitan cities. We are striving hard to contact our people through our known acquaintances and the SSK Sangahas. We have to reach each home of our samaj and we appeal and request you all to communicate and convey the news and persuade our people to buy and read SSK TIMES regularly. The coverage now is growing in arithmetical progression and we have to make special and extra efforts to make it grow in geometrical progression. 
+
+We request our readers to inform all their relations and friends living in other states our nation about the SSK TIMES and to inform the leaders of our samaj to send the news of their activities, functions and religious and cultural programmes to the SSK TIMES for publication. Photos and news may be sent to our email address. 
+
+We appeal to the writers and thinkers of our samaj to send their articles, write ups and their opinions. As and when we get readers’ responses, acolumn will be made a regular feature of the paper. 
+
+We also request our patrons to feed the paper with their valuable advertisements and help us to march boldly and make this paper a national paper in the true sense of the term. 
+
+We assure our readers that we make all efforts to make the paper an ambassador of good-will that helps to bring about a national integration of our same. 
+
+Our SSK Samaj has historic background. We have rich cultural heritages. But our samaj is the beset with any grave social problems. The changing times have been posing new and novel challenges and we have to tackle them thoughtfully. We have to think of the problems that our community is facing and we have to think and act aloud. We request you to make our paper a platform or medium for expressing your ideas and views. 
+
+Let us all collectively strive hard to make our samaj, an integrated force, a healthy and rich community and a big contributor in all fields and respects in the building up of our nation into a rich, powerful, happy India. 
+
+Samastha Sanmangalani Bhavantu
+
+
+
+
+MARCH-15 EDITION
+
+Let us together work for the upliftment of our Samaj.
+
+Unity and Co- operation is necessary for our survival as also for our development. This requires the enlargement of our vision. We need a broad outlook of life. We must shun our petty selfishness and greed and jealousy . We must try to appreciate others and their achievements. We must try to help others and lift others and motivate others. We must try to become the role-models for others. Mere money, power and position will not fetch us a position to advise others. If only what we say what we do and if only mean what we say, we become leaders.
+    
+We need such leaders now. Moral  excellence can alone make us leaders. The ssk samaj requires such leadership now to transform our samaj in to a solid part of the broader samaj of our country.
+    
+We earnestly appeal our organizations to conduct leadership camps, training sessions and workshops emphasizing the moral excellence in all out dealings, and in our interpersonal interactions.
+
+ We appeal to our various organizations to conduct workshops  to lntegrate the skills that are required for the various vocations and jobs. We have to strive hard to enhance the levels of general competancy as part of the vocational training. The needs of the younger generations in empowering themselves to achieve success in the face of stiff competitions, should become our priority. If only we make concerted efforts in this regard, we can do the best services to our community.
+
+ The leaders and the enthusiastic organizers should devise the priorities of the social services besides the religious functions; we also have to think of doing services to our community. We have to assertain the problems that afflict our community and make ourselves conscious of  the bogging issues. And that works like a magic. We must prepare the fertile ground for our younger generations to grow meaningfully and to the expected standards. Bring about an expected social change .
+
+ We should not merely depend on will come to our aid or help, if we do not make an effort ourselves. If we have the determination to do something , we are sure to find a way of doing will turn out to be easy to accomplish if we go on with determination. All difficulties or obstacles melt before a strong will of a man. What is the use of a brain if it is not put to use Goddess  Durgamata  will come to our help only when we make an effort. 
+
+ So, let us start debating the vital issues and problems afflicting our community today on the social and educational planes. We appeal to the connoisseurs of our samaj to air their views and remedies. We invite your opinions, responses.
+
+
+                                       Samasta Sanmangalani Bhavantu.      
+
+
+APRIL-15 EDITION
+
+
+                                                            EDITORIAL
+
+                                             Our ancestors were great  
+                                   We must recall that 
+
+Warm and hearty greetings of ‘Ugadi’, the new year. It marks the beginning of rejuvenation of nature and revitalization of its energies and strength. Every year Ugadi comes and it keeps on bringing new enthusiasm and novelty. We enjoy seeing nature wearing a new look, the vigor and beauty of greenery around us. We celebrate Ugadi with great pomp and enthusiasm and perform worship with devotion. We eat neem buds and joggery to remind ourselves that life is a mixture of bitter and sweet experiences. We have to accept all such experiences alike and retain our hopefulness happily. It is also an occasion to look back and view the achievements and make plans for the next year. The retrospection of how we have fared will help us to plan for the next year.  
+The SSK Times has been publishing the series of articles on the history of our forefathers. Every member of the clan has to know his roots and derive inspiration. The knowledge of our history together with the history of India will make us strong individuals. Kshatriyas had been the great rulers, the visionaries of happy mankind and had built great empires which excelled in their achievements in all the fields of life. The contribution of our forefathers should help us to regain our inner strength. Our ancestors strove hard to build such empires where humanity bloomed fully; humanity developed its outlook on sound moral and spiritual principles; material life became happy; fine arts developed Spiritual attainments galored. In manufacture, India excelled on various fronts.
+Thus, India with its abundant wealth attracted the foreigners and the invaders who rushed to become wealthy in India and conquered the country. The foreign rule eclipsed our vision, weakened our strength and vitality and cut-off our links with our glorious past.
+
+The Freedom Movement that began towards the end of nineteenth century and gained momentum in the early twentieth century served us as an eye-opener. The educational system introduced by the British had put us in a very disadvantageous position. It was not a man-making education. It was merely and entirely a negative education. A negative education or any training based on negation is worse than death.
+A nation that has no history of its own has nothing in this world. Out of the past is built the future. Look back, therefore as far as you can, drink deep of the eternal foundations that are behind and after that look forward, march forward and make India brighter, greater and much high higher than she ever was. Our ancestors were the builders of our nation. They were rulers who looked after the entire community. The more we study the past, the more glorious will be our future. The marvelous spiritual inheritance of our race is what a complete world-civilization is waiting for. Our ancestors were great. We must recall that.
+Let the new year bring in us a thorough change backed by the vision of our glorious past. 
+
+                                               Sarve janah sukhino bhavantu;
+                                                           Shubha Mastu 
+
+
+
+
+
+</pre>

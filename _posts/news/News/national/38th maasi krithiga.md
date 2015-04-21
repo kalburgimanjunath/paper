@@ -1,0 +1,23 @@
+---
+Title:38th "Maasi Krithiga"
+Layout:default/post
+Publishing: true
+Category:news,headline.highlights,featured,movies
+---
+   38th "Maasi Krithiga"
+    Function was celebrated by the association On 24 and 25th February 2015 at the 
+    association property B.K.K Kalyana Mandabam at Thiruporur. (TN)
+    The function was started On 24-02-2015 with Ganesh Pooja at Evening 5.00 pm and 
+    followed by Sahasrarjun Pooja at 7.00 pm.
+    Nearly 400 persons are gathered and the function is celebrated in a grand manner followed 
+    by dinner to all SSK community persons which is arranged by the Association Management.
+    The 38th "Maasi Krithiga" Function was started on 25-02-2015 at 7.30 am.
+    The president Sri Sulekha B.Kannan Sah preside over the pooja which is held at 
+    11.30 am and made a speech among the Community persons the steps to be taken 
+     in order to strengthen our community and The Further Developments of the Association.
+     Nearly 1000Nos of our community peoples were present, and The Function is celebrated 
+     in a grand manner. 
+     The Association management provided Morning tiffin and Afternoon lunch to all the 
+     Persons on free of cost worth of Rs.120000. 
+
+

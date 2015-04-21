@@ -1,0 +1,17 @@
+---
+Title:Tulajappa secured 36th Rank in IES
+Layout:default/post
+Publishing: true
+Category:news,headline.highlights,featured,movies
+---
+Tulajappa secured 36th Rank in IES
+
+Hubballi: We are happy to announce that our samaj youngster Tuljappa M. Ladwa (29) has secured 36th rank in IES (Indian Engineering Services) examination conducted by UPSC. He is now excitingly waiting the mains result. 
+"It was very difficult to muster fees for college admission. With the help of government scholarship, I managed to get a seat at PC Jabin Science College. The year 2006 was the worst period for my family. My father met with an accident and was in bed for a year. But I cracked the entrance exam and got a B Tech seat at NIT Rourkela in electrical engineering in same year," recalls Tuljappa with tears in his eyes.
+IES is rare exam; nearly 2 lakh candidates will appear for the prelims. It is not famous like IAS IFS and IPS. Tulajappa proved that financial position is not barrier to achieve success. He was with NTPC (National Thermal Power Corporation) earlier to this as Asst Manager, where he asked two months leave to prepare for competitive exams, but the management refused and he had to leave the job. Amidst all difficulties he passed this examination. 
+
+Another interesting thing is he has failed in mains recently by just 5 marks, this time he will chase it, he added. 
+He thanked his father Motilal T. Ladwa and mother Jayashree for their support in achieving this grand success. His father is 10th class pass and he worked hard to fetch good education to his three children. His father runs a stationary shop, still he travel to Mumbai to supply goods to local stationary shops. Tulajappa says, we all studied in a very small house, now we are all in a good position by our parent’s blessings. His brother Sanjay is a software engineer in Hyderabad and his sister Deepika is the principle of MVP ITI College in Hubballi.
+
+Proud Parents: Our children have worked hard amidst all difficulties and now a silver lining has come in our life.
+
