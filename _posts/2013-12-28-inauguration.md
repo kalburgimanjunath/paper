@@ -1,8 +1,10 @@
 ---
 title: INAUGURATION OF SSK TIMES
-layout: default
+layout: imagelayout
 published: true
 category: highlights
+images:
+  url: image-1.jpg
 ---
 INAUGURATION OF SSK TIMES
 

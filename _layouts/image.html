@@ -1,0 +1,14 @@
+---
+layout: imagelayout
+---
+<script src="/js/lightbox-2.6.min.js"></script>
+<link href="/css/lightbox.css" rel="stylesheet" />
+
+<p>default header for all gallery pages</p>
+
+{% for gallery in page.images %}
+  
+    <h1>{{ gallery.url }}</h1>
+    
+    </ol>
+{% endfor %}
